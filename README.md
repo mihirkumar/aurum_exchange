@@ -1,2 +1,2 @@
-# aurum_exchange
+# Aurum
 My concept non-custodial crpytocurrency exchange
