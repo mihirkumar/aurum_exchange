@@ -2,7 +2,7 @@
 My concept non-custodial crpytocurrency exchange.
 Read more about it here: https://medium.com/@mihir.kumar/aurum-ecf9f5e645b9
 
-Here is the `pip freeze` output to see the dependencies for this project:
+Here is the `pip freeze` output to see the dependencies for this project on a Windows 10 64 bit machine:
 
 ```
 attrdict==2.0.1
