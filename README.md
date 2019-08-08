@@ -40,4 +40,6 @@ web3==5.0.0
 websockets==7.0
 ```
 
+To run Aurum: run `python aurum.py`
+
 The sample_output.png image can be used as a reference for what a successful trade execution would look like. It consists of statements reflecting the balance of the two parties before and after the trade which can be used to quickly verify that the trade occurred. If you follow the steps in the Medium article linked above, you would also be able to see the parties' token balances to ensure that a trade  took place.
